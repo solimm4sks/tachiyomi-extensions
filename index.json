@@ -20972,7 +20972,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26486,10 +26486,10 @@
   {
     "name": "Tachiyomi: DMZJ",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.4.35.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.4.36.apk",
     "lang": "zh",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26498,7 +26498,7 @@
         "name": "动漫之家",
         "lang": "zh",
         "id": "2884190037559093788",
-        "baseUrl": "https://m.dmzj.com",
+        "baseUrl": "https://m.idmzj.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -26717,10 +26717,10 @@
   {
     "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.4.34.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.4.35.apk",
     "lang": "zh",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26988,27 +26988,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: QiXiManhua (Deprecated)",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.qiximh",
-    "apk": "tachiyomi-zh.qiximh-v1.4.6.apk",
-    "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "七夕漫画 (废弃,请使用6漫画)",
-        "lang": "zh",
-        "id": "418374491144859437",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Roumanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwu",
     "apk": "tachiyomi-zh.roumanwu-v1.4.3.apk",
@@ -27032,10 +27011,10 @@
   {
     "name": "Tachiyomi: 6Manhua / Qixi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.sixmh",
-    "apk": "tachiyomi-zh.sixmh-v1.4.6.apk",
+    "apk": "tachiyomi-zh.sixmh-v1.4.7.apk",
     "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27116,10 +27095,10 @@
   {
     "name": "Tachiyomi: WNACG",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wnacg",
-    "apk": "tachiyomi-zh.wnacg-v1.4.11.apk",
+    "apk": "tachiyomi-zh.wnacg-v1.4.12.apk",
     "lang": "zh",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27128,7 +27107,7 @@
         "name": "紳士漫畫",
         "lang": "zh",
         "id": "6551136894818591762",
-        "baseUrl": "https://www.htcomic.top",
+        "baseUrl": "http://www.htmanga3.top",
         "versionId": 1,
         "hasCloudflare": 0
       }
