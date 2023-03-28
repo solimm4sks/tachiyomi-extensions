@@ -966,10 +966,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.23.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.24.apk",
     "lang": "all",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4634,10 +4634,10 @@
   {
     "name": "Tachiyomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
-    "apk": "tachiyomi-all.myreadingmanga-v1.4.46.apk",
+    "apk": "tachiyomi-all.myreadingmanga-v1.4.47.apk",
     "lang": "all",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5335,35 +5335,6 @@
         "baseUrl": "https://noisemanga.com",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Olympus Scanlation",
-    "pkg": "eu.kanade.tachiyomi.extension.all.olympusscanlation",
-    "apk": "tachiyomi-all.olympusscanlation-v1.4.28.apk",
-    "lang": "all",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Olympus Scanlation",
-        "lang": "pt-BR",
-        "id": "3655034833454353805",
-        "baseUrl": "https://br.olympusscanlation.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Olympus Scanlation",
-        "lang": "es",
-        "id": "4384315126107049412",
-        "baseUrl": "https://olympusscanlation.com",
-        "versionId": 1,
-        "hasCloudflare": 1
       }
     ]
   },
@@ -7396,10 +7367,10 @@
   {
     "name": "Tachiyomi: A Pair of 2+",
     "pkg": "eu.kanade.tachiyomi.extension.en.apairof2",
-    "apk": "tachiyomi-en.apairof2-v1.4.29.apk",
+    "apk": "tachiyomi-en.apairof2-v1.4.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14904,10 +14875,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.4.42.apk",
+    "apk": "tachiyomi-en.reaperscans-v1.4.43.apk",
     "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16080,10 +16051,10 @@
   {
     "name": "Tachiyomi: Webnovel.com",
     "pkg": "eu.kanade.tachiyomi.extension.en.webnovel",
-    "apk": "tachiyomi-en.webnovel-v1.4.6.apk",
+    "apk": "tachiyomi-en.webnovel-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17172,10 +17143,10 @@
   {
     "name": "Tachiyomi: Kumanga",
     "pkg": "eu.kanade.tachiyomi.extension.es.kumanga",
-    "apk": "tachiyomi-es.kumanga-v1.4.7.apk",
+    "apk": "tachiyomi-es.kumanga-v1.4.8.apk",
     "lang": "es",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17607,6 +17578,27 @@
         "baseUrl": "https://www.noblessetranslations.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Olympus Scanlation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.2.apk",
+    "lang": "es",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Olympus Scanlation",
+        "lang": "es",
+        "id": "1163124599525658616",
+        "baseUrl": "https://olympusscans.com",
+        "versionId": 2,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -19217,10 +19209,10 @@
   {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
-    "apk": "tachiyomi-id.komikindoid-v1.4.8.apk",
+    "apk": "tachiyomi-id.komikindoid-v1.4.9.apk",
     "lang": "id",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19229,7 +19221,7 @@
         "name": "KomikIndoID",
         "lang": "id",
         "id": "5384836574731339537",
-        "baseUrl": "https://komikindo.id",
+        "baseUrl": "https://komikindo.pro",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20972,7 +20964,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -21471,7 +21463,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki221.net",
+        "baseUrl": "https://manatoki222.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21479,7 +21471,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki221.com",
+        "baseUrl": "https://newtoki222.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26486,10 +26478,10 @@
   {
     "name": "Tachiyomi: DMZJ",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.4.36.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.4.37.apk",
     "lang": "zh",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26633,10 +26625,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.2.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
