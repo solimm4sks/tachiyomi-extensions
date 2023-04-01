@@ -17731,10 +17731,10 @@
   {
     "name": "Tachiyomi: ScamberTraslator",
     "pkg": "eu.kanade.tachiyomi.extension.es.scambertraslator",
-    "apk": "tachiyomi-es.scambertraslator-v1.4.28.apk",
+    "apk": "tachiyomi-es.scambertraslator-v1.4.29.apk",
     "lang": "es",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17970,10 +17970,10 @@
   {
     "name": "Tachiyomi: Ver Manhwas",
     "pkg": "eu.kanade.tachiyomi.extension.es.vermanhwas",
-    "apk": "tachiyomi-es.vermanhwas-v1.4.28.apk",
+    "apk": "tachiyomi-es.vermanhwas-v1.4.29.apk",
     "lang": "es",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17982,7 +17982,7 @@
         "name": "Ver Manhwas",
         "lang": "es",
         "id": "4150746388640244220",
-        "baseUrl": "https://vermanhwa.com",
+        "baseUrl": "https://vermanhwa.es",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18621,10 +18621,10 @@
   {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
-    "apk": "tachiyomi-fr.sushiscan-v1.4.26.apk",
+    "apk": "tachiyomi-fr.sushiscan-v1.4.27.apk",
     "lang": "fr",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -20964,7 +20964,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26497,6 +26497,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Haoman6",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.haoman6",
+    "apk": "tachiyomi-zh.haoman6-v1.4.9.apk",
+    "lang": "zh",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "好漫6",
+        "lang": "zh",
+        "id": "1079759561750820890",
+        "baseUrl": "https://www.haoman6.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Haoman6 (g-lens)",
     "pkg": "eu.kanade.tachiyomi.extension.zh.haoman6glens",
     "apk": "tachiyomi-zh.haoman6glens-v1.4.6.apk",
@@ -26541,10 +26562,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.3.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
