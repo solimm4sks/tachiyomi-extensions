@@ -9856,10 +9856,10 @@
   {
     "name": "Tachiyomi: Lily Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.lilymanga",
-    "apk": "tachiyomi-en.lilymanga-v1.4.29.apk",
+    "apk": "tachiyomi-en.lilymanga-v1.4.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9868,7 +9868,7 @@
         "name": "Lily Manga",
         "lang": "en",
         "id": "4480996639887718467",
-        "baseUrl": "https://lilymanga.com",
+        "baseUrl": "https://lilymanga.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17500,10 +17500,10 @@
   {
     "name": "Tachiyomi: Manhwa-Latino",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwalatino",
-    "apk": "tachiyomi-es.manhwalatino-v1.4.29.apk",
+    "apk": "tachiyomi-es.manhwalatino-v1.4.30.apk",
     "lang": "es",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18348,10 +18348,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.39.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.40.apk",
     "lang": "fr",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21111,7 +21111,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangaraw.to",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -24378,10 +24378,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.69.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.70.apk",
     "lang": "ru",
-    "code": 69,
-    "version": "1.4.69",
+    "code": 70,
+    "version": "1.4.70",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
