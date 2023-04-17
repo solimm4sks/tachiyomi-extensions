@@ -15925,10 +15925,10 @@
   {
     "name": "Tachiyomi: VIZ Shonen Jump",
     "pkg": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
-    "apk": "tachiyomi-en.vizshonenjump-v1.4.15.apk",
+    "apk": "tachiyomi-en.vizshonenjump-v1.4.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -25632,6 +25632,27 @@
         "baseUrl": "https://webtoon-tr.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: HoneyManga",
+    "pkg": "eu.kanade.tachiyomi.extension.uk.honeymanga",
+    "apk": "tachiyomi-uk.honeymanga-v1.4.1.apk",
+    "lang": "uk",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HoneyManga",
+        "lang": "uk",
+        "id": "4712783922379490416",
+        "baseUrl": "https://honey-manga.com.ua",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
