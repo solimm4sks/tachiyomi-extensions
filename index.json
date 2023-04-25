@@ -29,6 +29,35 @@
     ]
   },
   {
+    "name": "Tachiyomi: Atlantis Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.all.atlantisscan",
+    "apk": "tachiyomi-all.atlantisscan-v1.4.29.apk",
+    "lang": "all",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Atlantis Scan",
+        "lang": "pt-BR",
+        "id": "2357735833792758085",
+        "baseUrl": "https://br.atlantisscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Atlantis Scan",
+        "lang": "es",
+        "id": "2237642340381856331",
+        "baseUrl": "https://atlantisscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
     "apk": "tachiyomi-all.batoto-v1.4.31.apk",
@@ -16664,27 +16693,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Atlantis scan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.atlantisscan",
-    "apk": "tachiyomi-es.atlantisscan-v1.4.29.apk",
-    "lang": "es",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Atlantis scan",
-        "lang": "es",
-        "id": "2237642340381856331",
-        "baseUrl": "https://atlantisscan.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Cartel de Manhwas",
     "pkg": "eu.kanade.tachiyomi.extension.es.carteldemanhwas",
     "apk": "tachiyomi-es.carteldemanhwas-v1.4.30.apk",
@@ -24888,10 +24896,10 @@
   {
     "name": "Tachiyomi: สดใสเมะ",
     "pkg": "eu.kanade.tachiyomi.extension.th.sodsaime",
-    "apk": "tachiyomi-th.sodsaime-v1.4.25.apk",
+    "apk": "tachiyomi-th.sodsaime-v1.4.26.apk",
     "lang": "th",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -24900,7 +24908,7 @@
         "name": "สดใสเมะ",
         "lang": "th",
         "id": "8174267898467838103",
-        "baseUrl": "https://www.xn--l3c0azab5a2gta.com",
+        "baseUrl": "http://www.xn--l3c0azab5a2gta.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
