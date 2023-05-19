@@ -17535,10 +17535,10 @@
   {
     "name": "Tachiyomi: MangaTigre",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangatigre",
-    "apk": "tachiyomi-es.mangatigre-v1.4.1.apk",
+    "apk": "tachiyomi-es.mangatigre-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18528,12 +18528,33 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga-FR",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.mangafr",
+    "apk": "tachiyomi-fr.mangafr-v1.4.5.apk",
+    "lang": "fr",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga-FR",
+        "lang": "fr",
+        "id": "1656809105675251389",
+        "baseUrl": "https://manga-fr.me",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangakawaii",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-    "apk": "tachiyomi-fr.mangakawaii-v1.4.36.apk",
+    "apk": "tachiyomi-fr.mangakawaii-v1.4.37.apk",
     "lang": "fr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
