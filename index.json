@@ -11487,10 +11487,10 @@
   {
     "name": "Tachiyomi: MangaPill",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapill",
-    "apk": "tachiyomi-en.mangapill-v1.4.7.apk",
+    "apk": "tachiyomi-en.mangapill-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17533,6 +17533,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaTigre",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangatigre",
+    "apk": "tachiyomi-es.mangatigre-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaTigre",
+        "lang": "es",
+        "id": "2097342954482164058",
+        "baseUrl": "https://www.mangatigre.net",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhwa-Latino",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwalatino",
     "apk": "tachiyomi-es.manhwalatino-v1.4.32.apk",
@@ -18251,6 +18272,27 @@
         "baseUrl": "https://flamescans.fr",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FMTEAM",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.fmteam",
+    "apk": "tachiyomi-fr.fmteam-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FMTEAM",
+        "lang": "fr",
+        "id": "3999514012368634446",
+        "baseUrl": "https://fmteam.fr",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -19257,6 +19299,27 @@
         "lang": "id",
         "id": "972717448578983812",
         "baseUrl": "https://komikcast.site",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Komik Chan",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikchan",
+    "apk": "tachiyomi-id.komikchan-v1.4.29.apk",
+    "lang": "id",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komik Chan",
+        "lang": "id",
+        "id": "9120337649658485983",
+        "baseUrl": "https://komikchan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26744,10 +26807,10 @@
   {
     "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.4.35.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.4.36.apk",
     "lang": "zh",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27122,10 +27185,10 @@
   {
     "name": "Tachiyomi: WNACG",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wnacg",
-    "apk": "tachiyomi-zh.wnacg-v1.4.12.apk",
+    "apk": "tachiyomi-zh.wnacg-v1.4.13.apk",
     "lang": "zh",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27134,7 +27197,7 @@
         "name": "紳士漫畫",
         "lang": "zh",
         "id": "6551136894818591762",
-        "baseUrl": "http://www.htmanga3.top",
+        "baseUrl": "https://www.htmanga3.top, https://www.htmanga4.top, https://www.htmanga5.top",
         "versionId": 1,
         "hasCloudflare": 0
       }
