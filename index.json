@@ -16821,10 +16821,10 @@
   {
     "name": "Tachiyomi: DokkoManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.dokkomanga",
-    "apk": "tachiyomi-es.dokkomanga-v1.4.29.apk",
+    "apk": "tachiyomi-es.dokkomanga-v1.4.30.apk",
     "lang": "es",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16833,7 +16833,7 @@
         "name": "DokkoManga",
         "lang": "es",
         "id": "9083558228647693798",
-        "baseUrl": "https://dokkomanga.xyz",
+        "baseUrl": "https://dokkomanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17220,10 +17220,10 @@
   {
     "name": "Tachiyomi: Kings Of Darkness",
     "pkg": "eu.kanade.tachiyomi.extension.es.kingsofdarkness",
-    "apk": "tachiyomi-es.kingsofdarkness-v1.4.1.apk",
+    "apk": "tachiyomi-es.kingsofdarkness-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17766,20 +17766,20 @@
   {
     "name": "Tachiyomi: Phoenix Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.phoenixfansub",
-    "apk": "tachiyomi-es.phoenixfansub-v1.4.27.apk",
+    "apk": "tachiyomi-es.phoenixfansub-v1.4.29.apk",
     "lang": "es",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Phoenix Fansub",
         "lang": "es",
-        "id": "2188221998256522902",
-        "baseUrl": "https://phoenixfansub.com",
-        "versionId": 1,
+        "id": "6384691881406628485",
+        "baseUrl": "https://phoenixmangas.com",
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -17871,10 +17871,10 @@
   {
     "name": "Tachiyomi: ScamberTraslator",
     "pkg": "eu.kanade.tachiyomi.extension.es.scambertraslator",
-    "apk": "tachiyomi-es.scambertraslator-v1.4.31.apk",
+    "apk": "tachiyomi-es.scambertraslator-v1.4.32.apk",
     "lang": "es",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20882,10 +20882,10 @@
   {
     "name": "Tachiyomi: Shingeki no Shoujo",
     "pkg": "eu.kanade.tachiyomi.extension.it.shingekinoshoujo",
-    "apk": "tachiyomi-it.shingekinoshoujo-v1.4.1.apk",
+    "apk": "tachiyomi-it.shingekinoshoujo-v1.4.2.apk",
     "lang": "it",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20894,7 +20894,7 @@
         "name": "Shingeki no Shoujo",
         "lang": "it",
         "id": "8539286681236797568",
-        "baseUrl": "https://shingekinoshoujo.to",
+        "baseUrl": "https://shingekinoshoujo.it",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21729,7 +21729,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki288.net",
+        "baseUrl": "https://manatoki291.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21737,7 +21737,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki288.com",
+        "baseUrl": "https://newtoki291.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22166,10 +22166,10 @@
   {
     "name": "Tachiyomi: Cerise Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.33.apk",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22178,7 +22178,7 @@
         "name": "Cerise Scans",
         "lang": "pt-BR",
         "id": "8629915907358523454",
-        "baseUrl": "https://cerisescan.com",
+        "baseUrl": "https://cerisescans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26366,10 +26366,10 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.4.11.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.12.apk",
     "lang": "vi",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26378,7 +26378,7 @@
         "name": "TruyenQQ",
         "lang": "vi",
         "id": "2553532324170433933",
-        "baseUrl": "https://truyenqqq.vn",
+        "baseUrl": "https://truyenqqne.com/",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26660,10 +26660,10 @@
   {
     "name": "Tachiyomi: DMZJ",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.4.39.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.4.40.apk",
     "lang": "zh",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
