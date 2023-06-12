@@ -22962,27 +22962,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Muito Mangá",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.muitomanga",
-    "apk": "tachiyomi-pt.muitomanga-v1.4.6.apk",
-    "lang": "pt-BR",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Muito Mangá",
-        "lang": "pt-BR",
-        "id": "6826283891957751011",
-        "baseUrl": "https://muitomanga.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mundo Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mundohentai",
     "apk": "tachiyomi-pt.mundohentai-v1.4.7.apk",
@@ -25211,10 +25190,10 @@
   {
     "name": "Tachiyomi: Jiangzaitoon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.jiangzaitoon",
-    "apk": "tachiyomi-tr.jiangzaitoon-v1.4.30.apk",
+    "apk": "tachiyomi-tr.jiangzaitoon-v1.4.31.apk",
     "lang": "tr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25223,7 +25202,7 @@
         "name": "Jiangzaitoon",
         "lang": "tr",
         "id": "2533138448805911283",
-        "baseUrl": "https://jiangzaitoon.biz",
+        "baseUrl": "https://jiangzaitoon.co",
         "versionId": 1,
         "hasCloudflare": 1
       }
