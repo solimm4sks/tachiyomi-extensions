@@ -2029,6 +2029,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Frelein Books",
+    "pkg": "eu.kanade.tachiyomi.extension.all.freleinbooks",
+    "apk": "tachiyomi-all.freleinbooks-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Frelein Books",
+        "lang": "all",
+        "id": "6187349985569291135",
+        "baseUrl": "https://books.frelein.my.id",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hennojin",
     "pkg": "eu.kanade.tachiyomi.extension.all.hennojin",
     "apk": "tachiyomi-all.hennojin-v1.4.1.apk",
@@ -6961,10 +6982,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.33.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.34.apk",
     "lang": "ar",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -17871,10 +17892,10 @@
   {
     "name": "Tachiyomi: VCPVMP",
     "pkg": "eu.kanade.tachiyomi.extension.es.vcpvmp",
-    "apk": "tachiyomi-es.vcpvmp-v1.4.8.apk",
+    "apk": "tachiyomi-es.vcpvmp-v1.4.9.apk",
     "lang": "es",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25841,10 +25862,10 @@
   {
     "name": "Tachiyomi: BlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyen",
-    "apk": "tachiyomi-vi.blogtruyen-v1.4.16.apk",
+    "apk": "tachiyomi-vi.blogtruyen-v1.4.17.apk",
     "lang": "vi",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25853,7 +25874,7 @@
         "name": "BlogTruyen",
         "lang": "vi",
         "id": "7328966691702591431",
-        "baseUrl": "https://blogtruyen.vn",
+        "baseUrl": "https://blogtruyenmoi.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
