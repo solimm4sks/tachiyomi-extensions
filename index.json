@@ -19202,10 +19202,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.43.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.44.apk",
     "lang": "id",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19214,7 +19214,7 @@
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.site",
+        "baseUrl": "https://komikcast.io",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22901,10 +22901,10 @@
   {
     "name": "Tachiyomi: Mizu Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mizumangas",
-    "apk": "tachiyomi-pt.mizumangas-v1.4.29.apk",
+    "apk": "tachiyomi-pt.mizumangas-v1.4.30.apk",
     "lang": "pt-BR",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22912,9 +22912,9 @@
       {
         "name": "Mizu Mangás",
         "lang": "pt-BR",
-        "id": "930581406053423703",
+        "id": "2812678243743408422",
         "baseUrl": "https://mizumangas.com.br",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
