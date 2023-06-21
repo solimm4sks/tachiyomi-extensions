@@ -14931,10 +14931,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.4.45.apk",
+    "apk": "tachiyomi-en.reaperscans-v1.4.46.apk",
     "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27113,7 +27113,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobyw3.com",
+        "baseUrl": "http://www.zerobyw007.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
