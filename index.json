@@ -19559,10 +19559,10 @@
   {
     "name": "Tachiyomi: KumaPoi",
     "pkg": "eu.kanade.tachiyomi.extension.id.kumapoi",
-    "apk": "tachiyomi-id.kumapoi-v1.4.25.apk",
+    "apk": "tachiyomi-id.kumapoi-v1.4.27.apk",
     "lang": "id",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19571,7 +19571,7 @@
         "name": "KumaPoi",
         "lang": "id",
         "id": "5075847076783200426",
-        "baseUrl": "https://kumapoi.me",
+        "baseUrl": "https://kumapoi.club",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21582,7 +21582,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki293.net",
+        "baseUrl": "https://manatoki294.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21590,7 +21590,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki293.com",
+        "baseUrl": "https://newtoki294.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
