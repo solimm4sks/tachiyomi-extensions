@@ -20441,10 +20441,10 @@
   {
     "name": "Tachiyomi: WorldManhwas",
     "pkg": "eu.kanade.tachiyomi.extension.id.worldmanhwas",
-    "apk": "tachiyomi-id.worldmanhwas-v1.4.30.apk",
+    "apk": "tachiyomi-id.worldmanhwas-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20453,7 +20453,7 @@
         "name": "WorldManhwas",
         "lang": "id",
         "id": "7019605194114894730",
-        "baseUrl": "https://worldmanhwas.info",
+        "baseUrl": "https://worldmanhwas.bar",
         "versionId": 1,
         "hasCloudflare": 1
       }
