@@ -23,10 +23,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.4.47.apk",
+    "apk": "tachiyomi-all.asurascans-v1.4.48.apk",
     "lang": "all",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -10015,6 +10015,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Lunar Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.lunarscans",
+    "apk": "tachiyomi-en.lunarscans-v1.4.25.apk",
+    "lang": "en",
+    "code": 25,
+    "version": "1.4.25",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lunar Scans",
+        "lang": "en",
+        "id": "3295715182522050094",
+        "baseUrl": "https://lunarscan.org",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LuxManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.luxmanga",
     "apk": "tachiyomi-en.luxmanga-v1.4.29.apk",
@@ -11590,21 +11611,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: MReader",
+    "name": "Tachiyomi: MangaGeko",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarawclub",
-    "apk": "tachiyomi-en.mangarawclub-v1.4.17.apk",
+    "apk": "tachiyomi-en.mangarawclub-v1.4.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MReader",
+        "name": "MangaGeko",
         "lang": "en",
         "id": "734865402529567092",
-        "baseUrl": "https://www.mreader.co",
+        "baseUrl": "https://www.mangageko.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
