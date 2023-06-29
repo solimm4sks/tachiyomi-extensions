@@ -21666,7 +21666,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki294.net",
+        "baseUrl": "https://manatoki295.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21674,7 +21674,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki294.com",
+        "baseUrl": "https://newtoki295.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -27164,10 +27164,10 @@
   {
     "name": "Tachiyomi: vomic",
     "pkg": "eu.kanade.tachiyomi.extension.zh.vomic",
-    "apk": "tachiyomi-zh.vomic-v1.4.1.apk",
+    "apk": "tachiyomi-zh.vomic-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
