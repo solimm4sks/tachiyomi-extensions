@@ -9553,6 +9553,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: IsekaiScan.top (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.en.isekaiscantop",
+    "apk": "tachiyomi-en.isekaiscantop-v1.4.29.apk",
+    "lang": "en",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "IsekaiScan.top (unoriginal)",
+        "lang": "en",
+        "id": "2873205829711053655",
+        "baseUrl": "https://isekaiscan.top",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Its Your Right Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.en.itsyourrightmanhua",
     "apk": "tachiyomi-en.itsyourrightmanhua-v1.4.31.apk",
