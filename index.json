@@ -22340,6 +22340,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dessert Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.dessertscan",
+    "apk": "tachiyomi-pt.dessertscan-v1.4.29.apk",
+    "lang": "pt-BR",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dessert Scan",
+        "lang": "pt-BR",
+        "id": "8351207419359900791",
+        "baseUrl": "https://cabaredowatame.site",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Diskus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.diskusscan",
     "apk": "tachiyomi-pt.diskusscan-v1.4.32.apk",
@@ -23447,6 +23468,27 @@
         "lang": "pt-BR",
         "id": "7158227645830523421",
         "baseUrl": "https://nixmangas.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nocturne Summer",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.nocturnesummer",
+    "apk": "tachiyomi-pt.nocturnesummer-v1.4.29.apk",
+    "lang": "pt-BR",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nocturne Summer",
+        "lang": "pt-BR",
+        "id": "5501311187877950699",
+        "baseUrl": "https://nocsummer.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
