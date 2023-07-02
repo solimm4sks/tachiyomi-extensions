@@ -3033,10 +3033,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.4.182.apk",
+    "apk": "tachiyomi-all.mangadex-v1.4.181.apk",
     "lang": "all",
-    "code": 182,
-    "version": "1.4.182",
+    "code": 181,
+    "version": "1.4.181",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -4317,10 +4317,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.4.41.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.4.40.apk",
     "lang": "all",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -7612,10 +7612,10 @@
   {
     "name": "Tachiyomi: aurora",
     "pkg": "eu.kanade.tachiyomi.extension.en.aurora",
-    "apk": "tachiyomi-en.aurora-v1.4.4.apk",
+    "apk": "tachiyomi-en.aurora-v1.4.3.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16105,12 +16105,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: VIZ",
+    "name": "Tachiyomi: VIZ Shonen Jump",
     "pkg": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
-    "apk": "tachiyomi-en.vizshonenjump-v1.4.19.apk",
+    "apk": "tachiyomi-en.vizshonenjump-v1.4.18.apk",
     "lang": "en",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -16119,14 +16119,6 @@
         "name": "VIZ Shonen Jump",
         "lang": "en",
         "id": "2727926930665642563",
-        "baseUrl": "https://www.viz.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "VIZ Manga",
-        "lang": "en",
-        "id": "2964046845727023397",
         "baseUrl": "https://www.viz.com",
         "versionId": 1,
         "hasCloudflare": 0
@@ -18158,27 +18150,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Blue Solo",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.bluesolo",
-    "apk": "tachiyomi-fr.bluesolo-v1.4.29.apk",
-    "lang": "fr",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Blue Solo",
-        "lang": "fr",
-        "id": "2095949455655924623",
-        "baseUrl": "https://www1.bluesolo.org",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Epsilon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.epsilonscan",
     "apk": "tachiyomi-fr.epsilonscan-v1.4.25.apk",
@@ -18320,27 +18291,6 @@
         "lang": "fr",
         "id": "267710359229814456",
         "baseUrl": "https://www.furyosquad.com/",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Hentai-Scantrad",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.hentaiscantrad",
-    "apk": "tachiyomi-fr.hentaiscantrad-v1.4.29.apk",
-    "lang": "fr",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Hentai-Scantrad",
-        "lang": "fr",
-        "id": "6747208512135394944",
-        "baseUrl": "https://hentai.scantrad-vf.cc",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18685,10 +18635,10 @@
   {
     "name": "Tachiyomi: Pantheon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.pantheonscan",
-    "apk": "tachiyomi-fr.pantheonscan-v1.4.30.apk",
+    "apk": "tachiyomi-fr.pantheonscan-v1.4.29.apk",
     "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18727,10 +18677,10 @@
   {
     "name": "Tachiyomi: PhenixScans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.phenixscans",
-    "apk": "tachiyomi-fr.phenixscans-v1.4.26.apk",
+    "apk": "tachiyomi-fr.phenixscans-v1.4.25.apk",
     "lang": "fr",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -18782,27 +18732,6 @@
         "lang": "fr",
         "id": "205901506276020437",
         "baseUrl": "https://www.scan-fr.org",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Scan Hentai Menu",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.scanhentaimenu",
-    "apk": "tachiyomi-fr.scanhentaimenu-v1.4.29.apk",
-    "lang": "fr",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Scan Hentai Menu",
-        "lang": "fr",
-        "id": "4153742697148883998",
-        "baseUrl": "https://scan.hentai.menu",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18937,10 +18866,10 @@
   {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
-    "apk": "tachiyomi-fr.sushiscan-v1.4.30.apk",
+    "apk": "tachiyomi-fr.sushiscan-v1.4.29.apk",
     "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
