@@ -18496,10 +18496,10 @@
   {
     "name": "Tachiyomi: Lelscan-VF",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelscanvf",
-    "apk": "tachiyomi-fr.lelscanvf-v1.4.7.apk",
+    "apk": "tachiyomi-fr.lelscanvf-v1.4.8.apk",
     "lang": "fr",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18508,7 +18508,7 @@
         "name": "Lelscan-VF",
         "lang": "fr",
         "id": "1122841295940549140",
-        "baseUrl": "https://lelscanvf.com",
+        "baseUrl": "https://lelscanvf.cc",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18662,27 +18662,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Op-VF",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.opvf",
-    "apk": "tachiyomi-fr.opvf-v1.4.6.apk",
-    "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Op-VF",
-        "lang": "fr",
-        "id": "4743523434971368490",
-        "baseUrl": "https://www.op-vf.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Pantheon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.pantheonscan",
     "apk": "tachiyomi-fr.pantheonscan-v1.4.31.apk",
@@ -18830,48 +18809,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Scan-1",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.scanone",
-    "apk": "tachiyomi-fr.scanone-v1.4.8.apk",
-    "lang": "fr",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Scan-1",
-        "lang": "fr",
-        "id": "2744744293069403412",
-        "baseUrl": "https://wwv.scan-1.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Scan OP",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.scanop",
-    "apk": "tachiyomi-fr.scanop-v1.4.6.apk",
-    "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Scan OP",
-        "lang": "fr",
-        "id": "2087689083628336317",
-        "baseUrl": "https://scan-op.cc",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Scantrad Union",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scantradunion",
     "apk": "tachiyomi-fr.scantradunion-v1.4.2.apk",
@@ -18937,10 +18874,10 @@
   {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
-    "apk": "tachiyomi-fr.sushiscan-v1.4.30.apk",
+    "apk": "tachiyomi-fr.sushiscan-v1.4.31.apk",
     "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
