@@ -22025,6 +22025,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Astrum Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.astrumscans",
+    "apk": "tachiyomi-pt.astrumscans-v1.4.30.apk",
+    "lang": "pt-BR",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Astrum Scans",
+        "lang": "pt-BR",
+        "id": "5353540588175036262",
+        "baseUrl": "https://astrumscans.xyz",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Baixar Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.baixarhentai",
     "apk": "tachiyomi-pt.baixarhentai-v1.4.7.apk",
@@ -22943,6 +22964,27 @@
         "lang": "pt-BR",
         "id": "7200398491235565318",
         "baseUrl": "http://limascans.xyz/v2",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Maid Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
+    "apk": "tachiyomi-pt.maidscan-v1.4.30.apk",
+    "lang": "pt-BR",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Maid Scan",
+        "lang": "pt-BR",
+        "id": "7624757094973334315",
+        "baseUrl": "https://maidscan.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23888,6 +23930,27 @@
         "lang": "pt-BR",
         "id": "7330705555862299741",
         "baseUrl": "https://sodascan.xyz",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Starlight Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.starlightscan",
+    "apk": "tachiyomi-pt.starlightscan-v1.4.25.apk",
+    "lang": "pt-BR",
+    "code": 25,
+    "version": "1.4.25",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Starlight Scan",
+        "lang": "pt-BR",
+        "id": "7977736050206547443",
+        "baseUrl": "https://starligthscan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
