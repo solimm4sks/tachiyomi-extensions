@@ -23,10 +23,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.4.49.apk",
+    "apk": "tachiyomi-all.asurascans-v1.4.50.apk",
     "lang": "all",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -35,7 +35,7 @@
         "name": "Asura Scans",
         "lang": "en",
         "id": "6247824327199706550",
-        "baseUrl": "https://www.asurascans.com",
+        "baseUrl": "https://asura.gg",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -17333,20 +17333,20 @@
   {
     "name": "Tachiyomi: Legion Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.legionscan",
-    "apk": "tachiyomi-es.legionscan-v1.4.31.apk",
+    "apk": "tachiyomi-es.legionscan-v1.4.32.apk",
     "lang": "es",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Legion Scan",
         "lang": "es",
-        "id": "4283655386900020916",
+        "id": "1864419645989454982",
         "baseUrl": "https://legionscans.com",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
