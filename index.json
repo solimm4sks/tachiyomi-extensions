@@ -6058,10 +6058,10 @@
   {
     "name": "Tachiyomi: Webtoons.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
-    "apk": "tachiyomi-all.webtoons-v1.4.39.apk",
+    "apk": "tachiyomi-all.webtoons-v1.4.40.apk",
     "lang": "all",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16806,27 +16806,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Clayrer",
-    "pkg": "eu.kanade.tachiyomi.extension.es.clayrer",
-    "apk": "tachiyomi-es.clayrer-v1.4.26.apk",
-    "lang": "es",
-    "code": 26,
-    "version": "1.4.26",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Clayrer",
-        "lang": "es",
-        "id": "2186900121989501386",
-        "baseUrl": "https://clayrer.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: CopyPasteScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.copypastescan",
     "apk": "tachiyomi-es.copypastescan-v1.4.32.apk",
@@ -16926,27 +16905,6 @@
         "lang": "es",
         "id": "3895171315878328595",
         "baseUrl": "https://doujinhentai.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: DragonTranslation",
-    "pkg": "eu.kanade.tachiyomi.extension.es.dragontranslation",
-    "apk": "tachiyomi-es.dragontranslation-v1.4.35.apk",
-    "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "DragonTranslation",
-        "lang": "es",
-        "id": "150061309030227779",
-        "baseUrl": "https://dragontranslation.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17457,27 +17415,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangasTK18",
-    "pkg": "eu.kanade.tachiyomi.extension.es.mangastk18",
-    "apk": "tachiyomi-es.mangastk18-v1.4.31.apk",
-    "lang": "es",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangasTK18",
-        "lang": "es",
-        "id": "4090703646507881579",
-        "baseUrl": "https://mangastk18.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaTigre",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangatigre",
     "apk": "tachiyomi-es.mangatigre-v1.4.3.apk",
@@ -17663,27 +17600,6 @@
         "baseUrl": "https://olympusscans.com",
         "versionId": 2,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Phoenix Fansub",
-    "pkg": "eu.kanade.tachiyomi.extension.es.phoenixfansub",
-    "apk": "tachiyomi-es.phoenixfansub-v1.4.31.apk",
-    "lang": "es",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Phoenix Fansub",
-        "lang": "es",
-        "id": "6384691881406628485",
-        "baseUrl": "https://phoenixmangas.com",
-        "versionId": 2,
-        "hasCloudflare": 1
       }
     ]
   },
